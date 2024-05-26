@@ -1,0 +1,48 @@
+{
+  "bot-account": {
+    "username": "papacrafters",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "papacrafters.aternos.me",
+    "port": 57618,
+    "version": "1.12.1"
+  },
+  
+  "position": {
+    "enabled": false,
+    "x": 27,
+    "y": 102,
+    "z": -73
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": ""
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": false,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "BOT AKO BWAKANANGSHIT",
+        "My owner is Lamgerr",
+        "I want be alone"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
